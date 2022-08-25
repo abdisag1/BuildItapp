@@ -7,7 +7,7 @@ function App() {
 		<div className='App'>
 			<div className='App-header'>
 				
-				<h1>buid it App Home page 1</h1>
+				<h1>buid it App Ready for Automatic deployment</h1>
 			</div>
 			<div className='App-body'>
 				
